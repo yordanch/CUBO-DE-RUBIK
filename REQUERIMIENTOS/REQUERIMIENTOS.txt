@@ -1,0 +1,20 @@
+	REQUERIMIENTOS FUNCIONALES
+
+1- El cubo dara un giro de hasta 360º
+2- usuario podra jugar mediante el touchpad o mause mediante el click
+3- el cubo tendra 6 colores diferentes para cada cara
+4- cuando un jugador lora colocar los 6 colores el sistema mostrar un mensaje de "juego ganado"
+5- hacer clic en color deseado para hacer dar el giro
+6- habra una opsion de jugar de nuevo
+7- habra una opsion de salir del juego
+
+
+        REQUERIMIENTOS NO FUNCIONALES
+
+1- sera disponible para todas las versiones de sistemas operativos.
+2- el costo del juego sera comodo para todo usuario.
+3- el juego tendra interfaz amigable para el usuario.
+4- accesible para todo tipo de usurios.
+5- accesible con facilidad para todo tipo de usuario.
+6- mantenible con toda su documentacion
+7- rendimiento
