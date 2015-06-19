@@ -7,6 +7,8 @@
 5- hacer clic en color deseado para hacer dar el giro
 6- habra una opsion de jugar de nuevo
 7- habra una opsion de salir del juego
+8- Tendra un boton para cancelar el juego
+9- Tendra un boton para reiniciar el juego
 
 
         REQUERIMIENTOS NO FUNCIONALES
