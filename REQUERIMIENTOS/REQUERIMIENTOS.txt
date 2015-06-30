@@ -13,9 +13,9 @@
 
         REQUERIMIENTOS NO FUNCIONALES
 
-1- sera disponible para todas las versiones de sistemas operativos.
+1- sera disponible para todas las versiones de sistemas operativos ya que a la mayoria de las personas utilizan diferentes so.
 2- el costo del juego sera comodo para todo usuario.
-3- el juego tendra interfaz amigable para el usuario.
+3- el juego tendra interfaz amigable para el usuario para que a los usuarios le guste y juegue en todo momento.
 4- accesible para todo tipo de usurios.
 5- accesible con facilidad para todo tipo de usuario.
 6- mantenible con toda su documentacion
