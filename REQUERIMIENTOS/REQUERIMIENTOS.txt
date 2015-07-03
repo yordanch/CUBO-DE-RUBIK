@@ -1,6 +1,6 @@
 	REQUERIMIENTOS FUNCIONALES
 
-1- El cubo dara un giro de hasta 360º y en todo sentido ya sea horaria o antehoraria en el eje "X" y eje "Y".
+1- El cubo dara un giro de hasta 360º y en todo sentido ya sea horaria o anti horaria en el eje "X" y eje "Y".
 2- usuario podra jugar mediante el touchpad o mause mediante el click.
 3- el cubo tendra 6 colores diferentes para cada cara y se puede escoger con mucha concentracion para poder armar bien los colores desados.
 4- cuando un jugador lora colocar los 6 colores el sistema mostrar un mensaje de "juego ganado"
