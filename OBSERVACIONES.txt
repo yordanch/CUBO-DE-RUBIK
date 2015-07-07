@@ -3,3 +3,8 @@ REQUERIMIENTOS Y CASOS DE USO
 - Son mas como requerimientos del usuario, falta un poco de detalle para que se conviertan en requerimientos del sistema, pero eso se puede salvar con la descripci?n de los casos de uso
 - Falta describir cada caso de uso
 Se ve bien, SIGUE ADELANTE!
+
+OBSERVACIONES SEGUNDO AVANCE
+-------------------------------------------------
+- No han hecho merge del pull-request con las observaciones anteriores
+- deben hacer commits mas seguidos
